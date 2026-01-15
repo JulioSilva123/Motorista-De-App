@@ -10,7 +10,7 @@ O **GC Driver** utiliza uma arquitetura híbrida e robusta, focada em performanc
 
 *   **Front-end:** Xamarin.Forms (XAML/C#)
 *   **Core/Backend Logic:** .NET Standard 2.0 (VB.NET)
-*   **Banco de Dados:** SQLite (via biblioteca `sqlite-net-pcl`)
+*   **Banco de Dados:** SQLite (via biblioteca `sqlite-net-pcl`) e Azure CosmosDB (para persistência em nuvem).
 *   **Arquitetura:** MVVM (Model-View-ViewModel) com padrão Repository e Unit of Work.
 
 ---

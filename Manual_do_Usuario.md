@@ -70,8 +70,10 @@ Não deixe passar a hora da troca de óleo!
 *   **Monitoramento Automático:** Conforme você lança abastecimentos e diários, o app monitora o odômetro e avisa quando a manutenção estiver próxima.
 
 ### 🛡️ Segurança e Backup
-*   **Offline First:** O GC Driver funciona 100% sem internet. Seus dados estão salvos no seu celular.
-*   **Backup:** Vá em Configurações > Backup para exportar seus dados. O arquivo gerado (`.db3`) pode ser salvo no Google Drive ou enviado por e-mail. Use a função "Restaurar" se trocar de celular.
+*   **Offline First:** O GC Driver prioriza o funcionamento sem internet, mas sincroniza seus dados quando conectado.
+*   **Backup em Nuvem:** Seus dados agora são salvos automaticamente na nuvem segura (Azure CosmosDB). Nunca mais perca seu histórico.
+*   **Restauração Fácil:** Trocou de celular? Basta reinstalar o app que todos os seus lançamentos e veículos serão restaurados automaticamente.
+*   **Backup Local:** Para segurança extra, você ainda pode exportar um arquivo (`.db3`) em Configurações > Backup.
 
 ---
 
@@ -83,8 +85,8 @@ R: Não! O GC Driver funciona totalmente offline.
 **P: Como ele calcula o custo da gasolina se eu não abasteci hoje?**
 R: O app usa a **média de consumo** do seu histórico e o **preço do último abastecimento** para calcular quanto você gastou exatamente nos KMs que rodou hoje.
 
-**P: Posso usar em dois celulares ao mesmo tempo?**
-R: Atualmente não. O banco de dados é local para garantir privacidade e velocidade.
+**P: Troquei de celular, perco meus dados?**
+R: Não! Graças ao backup em nuvem, basta instalar o app no novo aparelho e seus dados serão baixados automaticamente.
 
 ---
 
