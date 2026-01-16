@@ -1,34 +1,77 @@
-﻿# 📘 Manual do Utilizador - GC Driver
+﻿# 💰 Gestão Financeira (Livro Caixa)
 
-## 💰 1. Gestão Financeira (Livro Caixa)
+*O coração do seu controle financeiro diário.*
 
-*O coração do seu controlo financeiro diário.*
+---
 
-### 🔹 O que é?
+## 🔹 O que é?
 
-Aqui regista todo o dinheiro que entra (corridas, gorjetas) e sai (alimentação, manutenção, combustível). O objetivo é saber o seu **Lucro Líquido** real.
+Aqui você registra todo o dinheiro que entra (corridas, gorjetas) e sai (alimentação, manutenção, combustível). O objetivo é saber o seu **Lucro Líquido** real.
 
-### 🔹 Como usar:
+---
 
-1. **Novo Lançamento:**
+## 🔹 Como usar
 
-   * Toque no botão **`+`** no Dashboard.
+### 1. Novo Lançamento
 
-   * Escolha **Receita** (Verde) ou **Despesa** (Vermelho).
+1. Toque no botão **`+`** no Dashboard.
+2. Escolha **Receita** (Verde) ou **Despesa** (Vermelho).
+3. Digite o valor.
+4. Escolha uma Categoria (ex: Uber, Gasolina).
+5. Adicione uma observação (opcional) para lembrar do detalhe depois.
+6. Toque em **Salvar**.
 
-   * Digite o valor.
+### 2. Editar um Lançamento
 
-   * Escolha uma Categoria (ex: Uber, Gasolina).
+1. Toque em um item da lista para abrir a edição.
+2. Faça as alterações necessárias.
+3. Toque em **Salvar**.
 
-   * Toque em Salvar.
+### 3. Excluir um Lançamento
 
-2. **Editar/Excluir:**
+1. Deslize o item para a **esquerda** na lista.
+2. Toque no botão **Excluir** que aparece.
+3. Confirme a exclusão.
 
-   * Toque num item da lista para editar.
+---
 
-   * Deslize o item para a esquerda para ver o botão "Excluir".
+## 🔹 Entendendo o Dashboard
 
-3. **Saldo do Dia:**
+### Saldo Atual
+No topo da tela, você vê o **saldo acumulado** de todo o seu histórico financeiro.
 
-   * No topo do Dashboard, veja o quadro "Hoje". Se estiver vermelho, significa que gastou mais do que ganhou hoje.
+### Quadro "Hoje"
+Mostra o resultado do dia atual:
+- **Verde**: Você ganhou mais do que gastou hoje. ✅
+- **Vermelho**: Você gastou mais do que ganhou hoje. ⚠️
 
+### Navegação por Mês
+Use as setas **◀ ▶** para navegar entre os meses e ver o extrato de períodos anteriores.
+
+### Resumo do Mês
+- **Total Entradas**: Soma de todas as receitas do mês.
+- **Total Saídas**: Soma de todas as despesas do mês.
+
+---
+
+## 🔹 Dicas Importantes
+
+> 💡 **Registre na hora!** Quanto mais rápido você lançar, menos chance de esquecer.
+
+> 💡 **Use categorias personalizadas** para ter relatórios mais detalhados depois.
+
+> 💡 **A integração com Abastecimentos** permite lançar o gasto de combustível automaticamente, evitando trabalho dobrado.
+
+---
+
+## 🔹 Perguntas Frequentes
+
+**P: Posso editar um lançamento de meses anteriores?**
+R: Sim! Navegue até o mês desejado, toque no item e edite normalmente. O sistema recalcula todos os saldos automaticamente.
+
+**P: Se eu excluir uma categoria, o que acontece com os lançamentos?**
+R: Os lançamentos continuam existindo, mas aparecerão sem ícone. O valor ainda é contabilizado corretamente.
+
+---
+
+[⬅ Voltar ao Manual Principal](Default.md)
